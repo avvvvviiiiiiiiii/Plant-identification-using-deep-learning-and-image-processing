@@ -1,6 +1,6 @@
 # Plant Identification Using Deep Learning and Image Processing
 
-Species identification from a single leaf photograph on the [Leafsnap](https://www.kaggle.com/) dataset (185 tree species, 30,866 images: 23,147 lab + 7,719 field). Six deep-learning models are compared under one shared pipeline: same frozen train/validation/test split, same augmentation, same evaluation protocol.
+Species identification from a single leaf photograph on the Leafsnap dataset (185 tree species, 30,866 images: 23,147 lab + 7,719 field). Six deep-learning models are compared under one shared pipeline: same frozen train/validation/test split, same augmentation, same evaluation protocol.
 
 > Major Project, B.E. CSE (AI & ML), Chandigarh University, October 2026.
 
