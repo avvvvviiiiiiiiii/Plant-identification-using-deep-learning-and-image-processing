@@ -1,0 +1,19 @@
+# Notebooks 01-05 (PyTorch)
+torch
+torchvision
+timm
+pytorch-metric-learning
+scikit-learn
+pandas
+numpy
+matplotlib
+seaborn
+pillow
+tqdm
+# Notebook 06 (TensorFlow + background removal)
+tensorflow
+rembg[gpu]
+onnxruntime-gpu
+opencv-python-headless
+scikit-image
+kagglehub

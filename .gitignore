@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.DS_Store
+# Large artifacts: keep on Drive / releases, not in git
+*.pt
+*.pth
+*.keras
+*.h5
+*.onnx
+archive.zip
+leafsnap_data/
